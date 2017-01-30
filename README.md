@@ -1,2 +1,2 @@
 # PHP-MVC-WITH-AJAX
-PHP MVC com Ajax [JS, Handlerbarsjs, Requirejs] OOP
+PHP MVC com Ajax OOP
